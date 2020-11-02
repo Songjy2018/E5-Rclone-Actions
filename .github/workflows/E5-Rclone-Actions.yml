@@ -66,6 +66,6 @@ jobs:
           # 创建、删除目录
           rclone mkdir e5:E5-Rclone-Actions-mkdir
           rclone rmdir e5:E5-Rclone-Actions-mkdir
-          echo "创建、删除目录完毕"
+          echo "创建、删除目录完毕ya"
 
           
